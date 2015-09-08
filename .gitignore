@@ -1,0 +1,9 @@
+/target/
+/.sonar
+/.idea
+/speedment-archetype-basic.iml
+/nb-configuration.xml
+/sonar-project.properties
+*~
+settings.properties
+/nbproject/
