@@ -1,9 +1,15 @@
 /target/
 /.sonar
 /.idea
-/speedment-archetype-basic.iml
+/speedment-archetypes.iml
 /nb-configuration.xml
 /sonar-project.properties
 *~
 settings.properties
 /nbproject/
+/speedment-archetype-mariadb/target/
+/speedment-archetype-mysql/target/
+/speedment-archetype-postgresql/target/
+/speedment-archetype-mariadb/target/pom.xml.versionsBackup
+/speedment-archetype-mysql/target/pom.xml.versionsBackup
+/speedment-archetype-postgresql/target/pom.xml.versionsBackup
