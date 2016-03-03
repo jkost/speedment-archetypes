@@ -13,3 +13,4 @@ settings.properties
 /speedment-archetype-mariadb/target/pom.xml.versionsBackup
 /speedment-archetype-mysql/target/pom.xml.versionsBackup
 /speedment-archetype-postgresql/target/pom.xml.versionsBackup
+/speedment-archetype-sqlite/target/
