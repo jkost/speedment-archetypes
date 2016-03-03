@@ -42,6 +42,7 @@
         <module>speedment-archetype-mysql</module>
         <module>speedment-archetype-mariadb</module>
         <module>speedment-archetype-postgresql</module>
+        <module>speedment-archetype-sqlite</module>
     </modules>
     
     <properties>

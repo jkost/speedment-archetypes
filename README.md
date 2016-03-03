@@ -6,7 +6,7 @@ A Maven Archetype that can create an empty Speedment project
 | Repository         | https://repo1.maven.org/maven2      |
 | GroupId            | com.speedment                       |
 | ArtifactId         | speedment-archetype-basic           |
-| Version            | 2.2.3                               |
+| Version            | 2.2.4                               |
 
 ```
 #Create a project from the comand line.
